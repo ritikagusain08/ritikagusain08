@@ -10,11 +10,11 @@ With 3+ years of experience scaling PostgreSQL databases for platforms like F1, 
 - **Databases & Caching:** PostgreSQL, Redis, MySQL
 - **Architecture & DevOps:** Docker, REST APIs, Microservices, Database Sharding, Query Optimization
 
-### 🚀 Currently Working On
+### Currently Working On
 - Expanding my Node.js ecosystem knowledge.
 - Architecting high-performance backend systems with Fastify and Docker.
 - Building the **F1 Predictor API** and a **Job Portal System** (Check out the pinned repos below!)
 
-### 📫 Let's Connect
+### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ritika-gusain)
 - Email: ritikagusain2001@gmail.com
